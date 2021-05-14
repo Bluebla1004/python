@@ -8,7 +8,7 @@
 ```
 
 이미지설정
-
+!
 <br />
-![image](https://cdn.discordapp.com/attachments/841593333612806144/842627762560565268/20210514140141.png)
-![Discord](https://discordapp.com/api/guilds/750705387124031510/widget.png?style=banner2)
+![Discord Banner](https://discordapp.com/api/guilds/750705387124031510/widget.png?style=banner2)
+![image](https://user-images.githubusercontent.com/73012354/118224993-2e17d880-b4bf-11eb-981a-cda48963a0a9.png)
