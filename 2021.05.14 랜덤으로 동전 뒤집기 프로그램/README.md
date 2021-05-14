@@ -10,4 +10,5 @@
 이미지설정
 
 <br />
-![image] (https://cdn.discordapp.com/attachments/841593333612806144/842627762560565268/20210514140141.png)
+![image](https://cdn.discordapp.com/attachments/841593333612806144/842627762560565268/20210514140141.png)
+![Discord](https://discordapp.com/api/guilds/750705387124031510/widget.png?style=banner2)
