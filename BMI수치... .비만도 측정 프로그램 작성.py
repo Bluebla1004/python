@@ -11,9 +11,9 @@ bmi = kg/(cm*cm)
 
 if bmi<20:
     print ("저체중")
-elif 20<=bmi<=24:
+elif 20 <= bmi <= 24:
     print("정상체중")
-elif 25<=bmi<=30:
+elif 25 <= bmi <= 30:
     print("경도비만")
 else:
     print("비만")
