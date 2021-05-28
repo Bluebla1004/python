@@ -7,7 +7,7 @@
 
 kg = float(input("몸무게:"))
 cm = float(input("키:"))
-bmi = kg/(cm*cm)
+bmi = (cm*cm)/kg
 
 if bmi<20:
     print ("저체중")
