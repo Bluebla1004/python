@@ -8,7 +8,7 @@ people = str(input("성별을입력하십시오 (남/여)"))
 age = int(input("나이:"))
 
 if people == "여":
-    if age <= age <= 29:
+    if age <= age >= 20:
         print("적립금액의 2배를 적립해드립니다.")
     elif age > 30:
         print("적립금액의 3배를 적립해드립니다.")
